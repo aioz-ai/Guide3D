@@ -1,6 +1,3 @@
-# Scalable Group Choreography via Variational Phase Manifold Learning
+This is the repo for the landing page of paper: Guide3D A Bi-planar X-ray Dataset for 3D Shape Reconstruction
 
-## Code
-<i>Coming soon...</i>
-
-🌟 Stay tuned for more information and join us at ECCV 2024.
+🌟 Stay tuned for more information and join us at ACCV 2024.
